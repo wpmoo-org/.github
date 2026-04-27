@@ -70,10 +70,10 @@ WPMOO-based systems are ideal for:
 
 ```bash
 addons/
-  sp_core/            # Core micro framework components
-  sp_workflow/        # Workflow engine modules
-  sp_partner/         # Extended partner logic
-  sp_olympiad/        # Example domain module
+  moo_core/            # Core micro framework components
+  moo_workflow/        # Workflow engine modules
+  moo_partner/         # Extended partner logic
+  moo_olympiad/        # Example domain module
 ```
 
 ---

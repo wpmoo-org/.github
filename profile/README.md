@@ -1,4 +1,4 @@
-![WPMoo Odoo lifecycle tooling across development, staging, and production](docs/assets/wpmoo-banner.png)
+![WPMoo Odoo lifecycle tooling across development, staging, and production](https://github.com/wpmoo-org/wpmoo-odoo/blob/main/docs/assets/wpmoo-banner.png)
 
 **Workflow Platform Micro Object Oriented (WPMOO)**  
 A modular development ecosystem for building scalable, maintainable, and extensible Odoo solutions.

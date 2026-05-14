@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/npm/@wpmoo/odoo-dev/docs/assets/wpmoo-banner.png" alt="WPMoo Workflow Platform - Micro Object Oriented" width="920">
+![WPMoo Odoo lifecycle tooling across development, staging, and production](docs/assets/wpmoo-banner.png)
 
 **Workflow Platform Micro Object Oriented (WPMOO)**  
 A modular development ecosystem for building scalable, maintainable, and extensible Odoo solutions.
